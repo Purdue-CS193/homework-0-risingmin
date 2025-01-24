@@ -19,10 +19,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-Things I love about CS193 :)
-- No big pressure on grades
-- Actual useful material
-- Taught by fellow students in CS
+- bulleted
+- list
 
 1. Numbered
 2. List
