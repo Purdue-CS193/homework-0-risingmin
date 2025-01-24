@@ -1,8 +1,7 @@
 ## Welcome to GitHub Pages !!!!
+# Sungmin Lee's First CS193 Homework
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -15,8 +14,10 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+Things I love about CS193 :)
+- No big pressure on grades
+- Actual useful material
+- Taught by fellow students in CS
 
 1. Numbered
 2. List
